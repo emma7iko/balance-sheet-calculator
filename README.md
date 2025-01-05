@@ -1,5 +1,6 @@
 # Balance Sheet Calculator 
 **A sleek and intuitive web application designed to calculate balance sheets with ease.**
+![screenshot](screenshot.png)
 
 ---
 
