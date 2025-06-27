@@ -27,7 +27,7 @@ This project is composed of three primary files:
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/Emmatiko101/balance-sheet-calculator.git  
+   git clone https://github.com/emma7iko/balance-sheet-calculator.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
